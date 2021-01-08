@@ -1,0 +1,11 @@
+#errorMsg1, #errorMsg2 {
+    display: none;
+}
+
+#submitBtn3, #fetchRow, #hashtagRow, #postRow, #subscribeRow, #retweetRow {
+    display: none;
+}
+
+body{
+    background-color: #d2d7d3;
+}
